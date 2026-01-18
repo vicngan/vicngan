@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55&fontAlign=50&descAlign=50&font=Caveat" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A9E7E&center=true&vCenter=true&random=false&width=435&lines=Software+that+feels+like+a+helping+hand;Full-stack+%2B+thoughtful+UX;Technology+that+empowers" alt="Typing SVG" />
@@ -161,7 +161,7 @@ Coursework and personal projects in statistical computing, data visualization, a
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="60"/><br>
 <b>Human-Centered</b><br>
-<sub>Software should feel like a helping hand, not a barrier</sub>
+<sub>Software as a helping hand, not a barrier</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="60"/><br>
