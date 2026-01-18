@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+software+that+feels+like+a+helping+hand;Full-stack+development+%2B+thoughtful+UX;Technology+that+empowers%2C+not+frustrates" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Software+that+feels+like+a+helping+hand;Full-stack+%2B+thoughtful+UX;Technology+that+empowers" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -164,7 +164,7 @@ Coursework and personal projects in statistical computing, data visualization, a
 <sub>Software should feel like a helping hand, not a barrier</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="60"/><br>
 <b>Thoughtful Design</b><br>
 <sub>Every interaction should feel intuitive and intentional</sub>
 </td>
