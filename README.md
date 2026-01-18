@@ -16,22 +16,21 @@
 
 ## About Me
 
-```python
-class Victoria:
-    def __init__(self):
-        self.role = "Software Developer"
-        self.location = "Ann Arbor, MI"
-        self.education = "University of Michigan"
+<table>
+<tr>
+<td>
 
-        self.interests = [
-            "Full-Stack Web Development",
-            "AI/ML Application",
-            "UI/UX Design",
-        ]
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> **Hi, I'm Victoria!**
 
-    def current_mission(self):
-        return "To build software that changes how people feel when they use it — supported, not frustrated. Empowered, not confused. Whether it's healthcare, productivity, or everyday tools, I want to create technology that feels like a helping hand, not a barrier."
-```
+I'm a **Software Developer** based in **Ann Arbor, MI**, studying at the **University of Michigan**.
+
+I'm passionate about **Full-Stack Web Development**, **AI/ML Applications**, and **UI/UX Design** — always looking for ways to blend technical skill with thoughtful, human-centered design.
+
+> *"I want to build software that changes how people feel when they use it — supported, not frustrated. Empowered, not confused. Whether it's healthcare, productivity, or everyday tools, I create technology that feels like a helping hand, not a barrier."*
+
+</td>
+</tr>
+</table>
 
 ---
 
