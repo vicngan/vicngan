@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Healthcare%20%2B%20Technology&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+tools+that+improve+patient+care;Clinical+experience+meets+CS+innovation;Privacy-first+healthcare+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+software+that+feels+like+a+helping+hand;Full-stack+development+%2B+thoughtful+UX;Technology+that+empowers%2C+not+frustrates" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vicngan">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3FB950?style=for-the-badge" alt="Status"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Healthcare%20AI-6366F1?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Human--Centered%20Software-6366F1?style=for-the-badge" alt="Focus"/>
   <img src="https://komarev.com/ghpvc/?username=vicngan&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -159,19 +159,19 @@ Coursework and personal projects in statistical computing, data visualization, a
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="60"/><br>
-<b>Privacy First</b><br>
-<sub>Healthcare data deserves the highest protection</sub>
-</td>
-<td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="60"/><br>
 <b>Human-Centered</b><br>
-<sub>Technology should reduce burden, not add to it</sub>
+<sub>Software should feel like a helping hand, not a barrier</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="60"/><br>
+<b>Thoughtful Design</b><br>
+<sub>Every interaction should feel intuitive and intentional</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/><br>
-<b>Move Fast</b><br>
-<sub>Validate things, iterate quickly, ship solutions</sub>
+<b>Ship & Iterate</b><br>
+<sub>Build fast, learn from users, improve constantly</sub>
 </td>
 </tr>
 </table>
@@ -195,8 +195,7 @@ Coursework and personal projects in statistical computing, data visualization, a
 <br>
 
 <p align="center">
-  <i>"The best healthcare technology is invisible—it just works, when and where people need it."</i>
+  <i>"Good software doesn't just work — it makes people feel supported, empowered, and understood."</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%"/>
-# vicngan
