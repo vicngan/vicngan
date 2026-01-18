@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55&fontAlign=50&descAlign=50&font=Caveat" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A9E7E&center=true&vCenter=true&random=false&width=435&lines=Software+that+feels+like+a+helping+hand;Full-stack+%2B+thoughtful+UX;Technology+that+empowers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7A9E7E&center=true&vCenter=true&random=false&width=380&lines=Software+as+a+helping+hand;Full-stack+%2B+thoughtful+UX;Technology+that+empowers" alt="Typing SVG" />
 </p>
 
 <p align="center">
