@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> **Hi, I'm Victoria!**
 
-I'm a **Software Developer** based in **Ann Arbor, MI**, studying at the **University of Michigan**.
+I'm a **Software Developer** based in **Ann Arbor, MI**, studying Computer Science and minoring in Entrepreneur at the **University of Michigan**.
 
 I'm passionate about **Full-Stack Web Development**, **AI/ML Applications**, and **UI/UX Design** — always looking for ways to blend technical skill with thoughtful, human-centered design.
 
@@ -99,12 +99,13 @@ Reimagining everyday EMR workflows with a gentle but powerful interface that red
 
 Coursework and personal projects in statistical computing, data visualization, and algorithm design.
 
-`C++` `R` `Python`
+`C++` `R` `Python` `Figma`
 
 **Areas:**
 - Statistical inference
 - Data structures
 - Algorithm optimization
+- Digital Design
 
 </td>
 </tr>
@@ -183,7 +184,7 @@ Coursework and personal projects in statistical computing, data visualization, a
   <a href="https://linkedin.com/in/vicngan">
     <img src="https://img.shields.io/badge/LinkedIn-7A9E7E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@umich.edu">
+  <a href="mailto:victoria.n.nguyen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D4A574?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/vicngan">
