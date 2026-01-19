@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vicngan">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-B8D8BA?style=for-the-badge&labelColor=F5F5F0" alt="Status"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Human--Centered%20Software-7A9E7E?style=for-the-badge&labelColor=F5F5F0" alt="Focus"/>
+  <img src="https://img.shields.io/badge/CS-UMich-7A9E7E?style=for-the-badge&labelColor=F5F5F0" alt="School"/>
+  <img src="https://img.shields.io/badge/Summer%202026-SWE%20Internships-B8D8BA?style=for-the-badge&labelColor=F5F5F0" alt="Seeking"/>
   <img src="https://komarev.com/ghpvc/?username=vicngan&label=Profile+Views&color=7A9E7E&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -22,11 +20,17 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> **Hi, I'm Victoria!**
 
-I'm a **Software Developer** based in **Ann Arbor, MI**, studying Computer Science and minoring in Entrepreneur at the **University of Michigan**.
+I'm a **Software Developer** studying **Computer Science** with a minor in **Entrepreneurship** at the **University of Michigan**.
 
-I'm passionate about **Full-Stack Web Development**, **AI/ML Applications**, and **UI/UX Design** — always looking for ways to blend technical skill with thoughtful, human-centered design.
+My path here wasn't typical — I started in **pre-med** before falling in love with building software. That healthcare background now shapes everything I create: tools that are **intuitive**, **empathetic**, and actually **help people**.
 
-> *"I want to build software that changes how people feel when they use it — supported, not frustrated. Empowered, not confused. Whether it's healthcare, productivity, or everyday tools, I create technology that feels like a helping hand, not a barrier."*
+I'm passionate about **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — always blending technical skill with human-centered thinking.
+
+<br>
+
+**Currently building:** Privacy-preserving synthetic data tools, emotionally-intelligent care apps, and clinical workflow solutions.
+
+**Looking for:** Summer 2026 SWE internships where I can build meaningful products.
 
 </td>
 </tr>
