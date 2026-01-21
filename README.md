@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F0,100:B8D8BA&height=150&section=header&text=Victoria%20Nguyen&fontSize=50&fontColor=5C7A5C&animation=fadeIn&font=Caveat&desc=Human-Centered%20Software%20%26%20Design&descSize=22&descAlign=50&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5F5F0,100:B8D8BA&amp;height=150&amp;section=header&amp;text=Victoria%20Nguyen&amp;fontSize=50&amp;fontColor=5C7A5C&amp;animation=fadeIn&amp;font=Caveat&amp;desc=Human-Centered%20Software%20%26%20Design&amp;descSize=22&amp;descAlign=50&amp;descAlignY=65" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A9E7E&center=true&vCenter=true&random=false&width=450&lines=Software+as+a+helping+hand.;Full-stack+%2B+thoughtful+UX.;Technology+that+empowers." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7A9E7E&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=450&amp;lines=Software+as+a+helping+hand.;Full-stack+%2B+thoughtful+UX.;Technology+that+empowers." alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://linkedin.com/in/vicngan">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-7A9E7E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-7A9E7E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
     </a>
     <a href="mailto:victoria.n.nguyen@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D4A574?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D4A574?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
     </a>
     <a href="https://github.com/vicngan">
-      <img src="https://img.shields.io/badge/GitHub-Portfolio-5C7A5C?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-Portfolio-5C7A5C?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/CS-UMich-B8D8BA?style=flat-square&labelColor=7A9E7E&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Health_Tech-D4A574?style=flat-square&labelColor=8c6b4a&logoColor=white" />
-    <img src="https://img.shields.io/badge/Summer_2026-Seeking_Internships-7A9E7E?style=flat-square&labelColor=5C7A5C&logoColor=white" />
+    <img src="https://img.shields.io/badge/CS-UMich-B8D8BA?style=flat-square&amp;labelColor=7A9E7E&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Health_Tech-D4A574?style=flat-square&amp;labelColor=8c6b4a&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Summer_2026-Seeking_Internships-7A9E7E?style=flat-square&amp;labelColor=5C7A5C&amp;logoColor=white" />
   </p>
 
 </div>
