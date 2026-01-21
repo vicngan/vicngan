@@ -52,7 +52,7 @@ I specialize in **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — 
 
 | **Frontend & Design** | **Backend & Core** | **Data & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,figma&theme=light" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,flask,postgres&theme=light" /> | <img src="https://skillicons.dev/icons?i=r,git,docker,linux,vscode&theme=light" /> |
+| <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,figma&amp;theme=light" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,flask,postgres&amp;theme=light" /> | <img src="https://skillicons.dev/icons?i=r,git,docker,linux,vscode&amp;theme=light" /> |
 | *Building intuitive UIs* | *Robust logic & APIs* | *Analysis & DevOps* |
 
 </div>
@@ -149,14 +149,14 @@ High-performance computing projects focusing on memory management. Deep dives in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&hide_border=true&background=F5F5F0&ring=7A9E7E&fire=D4A574&currStreakLabel=5C7A5C&sideLabels=5C7A5C&currStreakNum=4A5D4A&sideNums=4A5D4A&dates=8B9D83" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vicngan&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=5C7A5C&icon_color=7A9E7E&text_color=4A5D4A&ring_color=B8D8BA" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&amp;hide_border=true&amp;background=F5F5F0&amp;ring=7A9E7E&amp;fire=D4A574&amp;currStreakLabel=5C7A5C&amp;sideLabels=5C7A5C&amp;currStreakNum=4A5D4A&amp;sideNums=4A5D4A&amp;dates=8B9D83" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vicngan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F5F5F0&amp;title_color=5C7A5C&amp;icon_color=7A9E7E&amp;text_color=4A5D4A&amp;ring_color=B8D8BA" height="150"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&hide_border=true&bg_color=F5F5F0&color=5C7A5C&line=7A9E7E&point=D4A574&area=true&area_color=B8D8BA" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&amp;hide_border=true&amp;bg_color=F5F5F0&amp;color=5C7A5C&amp;line=7A9E7E&amp;point=D4A574&amp;area=true&amp;area_color=B8D8BA" width="98%"/>
 </div>
 
 ---
@@ -189,7 +189,7 @@ High-performance computing projects focusing on memory management. Deep dives in
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B8D8BA,100:7A9E7E&amp;height=100&amp;section=footer" width="100%"/>
 
 <br>
 
