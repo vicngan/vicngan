@@ -40,7 +40,7 @@ My path here wasn't typical — I started in **pre-med** before falling in love 
 
 I specialize in **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — always blending technical skill with human-centered thinking.
 
-> **Currently building:** Privacy-preserving synthetic data tools, emotionally-intelligent care apps, and betting-based habit trackers.
+> **Currently building:** **SynthLab** (Synthetic Data Intelligence) and a **Genomic AI Chatbox**.
 
 ---
 
@@ -67,15 +67,17 @@ I specialize in **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — 
 
 **Full-Stack Synthetic Data Intelligence**
 
-A hybrid platform for generating privacy-safe healthcare data. Features longitudinal synthesis, interactive validation dashboards, and FHIR interoperability.
+A hybrid platform generating privacy-safe healthcare data. Features longitudinal synthesis, interactive validation dashboards, and FHIR export.
 
 `React` `FastAPI` `Vite` `Python` `SDV`
 
+<br>
+
 **Key Features:**
-- ⚛️ **Hybrid Arch:** React UI + Python Data Engine
-- 📈 **Longitudinal:** PAR model for sequential visits
-- 📊 **Validation:** Interactive Plotly visual reports
-- 🏥 **Export:** FHIR R4 JSON & Compliance PDFs
+- ⚛️ **Hybrid Architecture**<br>React UI coupled with Python Data Engine
+- 📈 **Longitudinal Data**<br>PAR model support for sequential visits
+- 📊 **Validation Suite**<br>Interactive Plotly statistical reports
+- 🏥 **Interoperability**<br>FHIR R4 JSON export & Compliance PDFs
 
 </td>
 <td width="50%" valign="top">
@@ -84,15 +86,17 @@ A hybrid platform for generating privacy-safe healthcare data. Features longitud
 
 **Emotionally-Intelligent Care Companion**
 
-A support system for healthcare workers and night-shift students that balances logistical tracking with gentle emotional check-ins.
+A support system for healthcare workers and night-shift students. Balances logistical tracking with gentle emotional check-ins to prevent burnout.
 
-`Python` `Streamlit` `SQLite` `Expo`
+`Python` `Streamlit` `SQLite` `Altair` `Pandas`
+
+<br>
 
 **Key Features:**
-- 🌙 **Shift Rhythm:** Smart logic for night/day switches
-- 🔋 **Guilt-Free:** "Energy" tracking instead of "Productivity"
-- 🔐 **Secure:** Encrypted local health data storage
-- 📱 **Mobile:** Deployed via Expo Go wrapper
+- 🌙 **Shift Rhythm Logic**<br>Smart scheduling for night/day switches
+- 🔋 **Guilt-Free Tracking**<br>"Energy" monitoring instead of "Productivity"
+- 🔐 **Privacy First**<br>Encrypted local health data storage
+- ☁️ **Web Accessible**<br>Fully interactive web app deployed via Streamlit
 
 </td>
 </tr>
@@ -103,15 +107,17 @@ A support system for healthcare workers and night-shift students that balances l
 
 **Anti-Burnout Nursing Interface**
 
-Reimagining the Electronic Medical Record (EMR) with a "Soft UI" design language to reduce cognitive load and charting fatigue for nurses.
+Reimagining the Electronic Medical Record (EMR) with a "Soft UI" design language. Reduces cognitive load and charting fatigue for nursing staff.
 
-`Python` `Tkinter` `Matplotlib` `SQLite`
+`Python` `Tkinter` `Matplotlib` `SQLite` `NumPy`
+
+<br>
 
 **Key Features:**
-- 📋 **SBAR Cards:** Digital "Handoff" workflow tools
-- 📉 **Vitals:** Real-time patient trend visualization
-- 🎨 **Pastel UI:** High-contrast but low-strain visuals
-- 👩‍⚕️ **Roles:** Custom views for RN vs. Resident
+- 📋 **SBAR Cards**<br>Digital "Handoff" workflow tools for teams
+- 📉 **Vitals Dashboard**<br>Real-time patient trend visualization
+- 🎨 **Pastel UI System**<br>High-contrast but low-strain visuals
+- 👩‍⚕️ **Role-Based Views**<br>Custom interfaces for RN vs. Resident
 
 </td>
 <td width="50%" valign="top">
@@ -120,15 +126,17 @@ Reimagining the Electronic Medical Record (EMR) with a "Soft UI" design language
 
 **Algorithms & Systems Programming**
 
-Deep dives into memory management, efficient data structures, and algorithmic optimization using C++ and R.
+High-performance computing projects focusing on memory management. Deep dives into efficient data structures, statistical inference, and C++ logic.
 
-`C++` `Python` `R` `Linux`
+`C++` `Python` `R` `Linux` `Bash`
+
+<br>
 
 **Key Features:**
-- 🌳 **Structures:** Custom BSTs, Maps, and Linked Lists
-- ⚡ **Optimization:** Pointer arithmetic & memory safety
-- 🎲 **Inference:** Statistical modeling in R
-- 🧠 **Problem Solving:** Advanced algorithmic challenges
+- 🌳 **Custom Structures**<br>BSTs, Hash Maps, and Linked Lists
+- ⚡ **Memory Safety**<br>Pointer arithmetic & leak prevention
+- 🎲 **Statistical Models**<br>Inference and analysis using R
+- 🧠 **Problem Solving**<br>Advanced algorithmic optimization
 
 </td>
 </tr>
@@ -180,5 +188,11 @@ Deep dives into memory management, efficient data structures, and algorithmic op
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=100&section=footer" width="100%"/>
+
+<br>
+
+<p align="center">
+  <sub>Made with Love - Victoria Nguyen - 2026</sub>
+</p>
 
 </div>
