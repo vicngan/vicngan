@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Victoria Nguyen Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F0,100:B8D8BA&height=150&section=header&text=Victoria%20Nguyen&fontSize=50&fontColor=5C7A5C&animation=fadeIn&font=Caveat&desc=Human-Centered%20Software%20%26%20Design&descSize=22&descAlign=50&descAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
