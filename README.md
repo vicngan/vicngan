@@ -46,17 +46,17 @@ I'm passionate about **Full-Stack Development**, **AI/ML**, and **UI/UX Design**
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="25"/> SynthLab
 
-**Research Intelligence Platform for Synthetic Data**
+**Full-Stack Synthetic Data Platform**
 
-Generate privacy-safe synthetic healthcare data while preserving statistical properties. Built for researchers and clinical AI developers.
+A hybrid React + FastAPI platform for generating privacy-safe healthcare data. Features longitudinal synthesis, interactive validation dashboards, and FHIR interoperability.
 
-`Python` `FastAPI` `Streamlit` `SDV`
+`React` `FastAPI` `Python` `TailwindCSS` `SDV`
 
 **Features:**
-- 3 synthesis methods (CTGAN, TVAE, GaussianCopula)
-- Medical constraint enforcement
-- Privacy analysis & re-identification risk
-- Literature RAG with AI summaries
+- **Hybrid Arch:** React/Vite UI + Python Data Engine
+- **Advanced ML:** Longitudinal (PAR) & Sequential data
+- **Validation:** Interactive Plotly charts & Lab Notebook
+- **Export:** FHIR R4 JSON & Compliance Certificates
 
 </td>
 <td width="50%" valign="top">
@@ -121,7 +121,7 @@ Coursework and personal projects in statistical computing, data visualization, a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,sqlite,mongodb,git,docker,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,python,fastapi,sqlite,git,docker,figma,cpp,js&perline=12" />
   </a>
 </p>
 
@@ -131,10 +131,10 @@ Coursework and personal projects in statistical computing, data visualization, a
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, C++, JavaScript, SQL, R |
+| **Languages** | Python, JavaScript/TypeScript, C++, SQL, R |
 | **Backend** | FastAPI, Flask, SQLAlchemy |
-| **Frontend** | React, Streamlit, Tkinter |
-| **Data/ML** | Pandas, NumPy, SDV, Matplotlib, Altair |
+| **Frontend** | React, Vite, TailwindCSS, Streamlit |
+| **Data/ML** | Pandas, NumPy, SDV, Plotly, Matplotlib |
 | **Databases** | SQLite, MongoDB, PostgreSQL |
 | **Tools** | Git, Docker, VS Code, Figma |
 | **Security** | PBKDF2, Fernet encryption, OAuth |
