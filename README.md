@@ -20,7 +20,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/CS-UMich-B8D8BA?style=flat-square&labelColor=7A9E7E&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_UI_/_UX-D4A574?style=flat-square&labelColor=8c6b4a&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Full_Stack_+_UI_/_UX_+_AI_-D4A574?style=flat-square&labelColor=8c6b4a&logoColor=white" />
     <img src="https://img.shields.io/badge/Summer_2026-Seeking_Internships-7A9E7E?style=flat-square&labelColor=5C7A5C&logoColor=white" />
   </p>
 
