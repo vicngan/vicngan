@@ -1,29 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5F5F0,100:B8D8BA&amp;height=150&amp;section=header&amp;text=Victoria%20Nguyen&amp;fontSize=50&amp;fontColor=5C7A5C&amp;animation=fadeIn&amp;font=Caveat&amp;desc=Human-Centered%20Software%20%26%20Design&amp;descSize=22&amp;descAlign=50&amp;descAlignY=65" width="100%" alt="Header"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55&fontAlign=50&descAlign=50&font=Caveat" width="100%"/>
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7A9E7E&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=450&amp;lines=Software+as+a+helping+hand.;Full-stack+%2B+thoughtful+UX.;Technology+that+empowers." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A9E7E&center=true&vCenter=true&random=false&width=450&lines=Software+as+a+helping+hand.;Full-stack+%2B+thoughtful+UX.;Technology+that+empowers." alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://linkedin.com/in/vicngan">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-7A9E7E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-7A9E7E?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:victoria.n.nguyen@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D4A574?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D4A574?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/vicngan">
-      <img src="https://img.shields.io/badge/GitHub-Portfolio-5C7A5C?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-Portfolio-5C7A5C?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/CS-UMich-B8D8BA?style=flat-square&amp;labelColor=7A9E7E&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Health_Tech-D4A574?style=flat-square&amp;labelColor=8c6b4a&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Summer_2026-Seeking_Internships-7A9E7E?style=flat-square&amp;labelColor=5C7A5C&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/CS-UMich-B8D8BA?style=flat-square&labelColor=7A9E7E&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Health_Tech-D4A574?style=flat-square&labelColor=8c6b4a&logoColor=white" />
+    <img src="https://img.shields.io/badge/Summer_2026-Seeking_Internships-7A9E7E?style=flat-square&labelColor=5C7A5C&logoColor=white" />
   </p>
 
 </div>
@@ -52,7 +50,7 @@ I specialize in **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — 
 
 | **Frontend & Design** | **Backend & Core** | **Data & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,figma&amp;theme=light" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,flask,postgres&amp;theme=light" /> | <img src="https://skillicons.dev/icons?i=r,git,docker,linux,vscode&amp;theme=light" /> |
+| <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,figma&theme=light" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,flask,postgres&theme=light" /> | <img src="https://skillicons.dev/icons?i=r,git,docker,linux,vscode&theme=light" /> |
 | *Building intuitive UIs* | *Robust logic & APIs* | *Analysis & DevOps* |
 
 </div>
@@ -149,14 +147,14 @@ High-performance computing projects focusing on memory management. Deep dives in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&amp;hide_border=true&amp;background=F5F5F0&amp;ring=7A9E7E&amp;fire=D4A574&amp;currStreakLabel=5C7A5C&amp;sideLabels=5C7A5C&amp;currStreakNum=4A5D4A&amp;sideNums=4A5D4A&amp;dates=8B9D83" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vicngan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F5F5F0&amp;title_color=5C7A5C&amp;icon_color=7A9E7E&amp;text_color=4A5D4A&amp;ring_color=B8D8BA" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&hide_border=true&background=F5F5F0&ring=7A9E7E&fire=D4A574&currStreakLabel=5C7A5C&sideLabels=5C7A5C&currStreakNum=4A5D4A&sideNums=4A5D4A&dates=8B9D83" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vicngan&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=5C7A5C&icon_color=7A9E7E&text_color=4A5D4A&ring_color=B8D8BA" height="150"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&amp;hide_border=true&amp;bg_color=F5F5F0&amp;color=5C7A5C&amp;line=7A9E7E&amp;point=D4A574&amp;area=true&amp;area_color=B8D8BA" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&hide_border=true&bg_color=F5F5F0&color=5C7A5C&line=7A9E7E&point=D4A574&area=true&area_color=B8D8BA" width="98%"/>
 </div>
 
 ---
@@ -189,7 +187,7 @@ High-performance computing projects focusing on memory management. Deep dives in
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B8D8BA,100:7A9E7E&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=100&section=footer" width="100%"/>
 
 <br>
 
