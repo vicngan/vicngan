@@ -36,11 +36,11 @@
 
 I'm a **Software Developer** studying **Computer Science** with a minor in **Entrepreneurship** at the **University of Michigan**.
 
-My path here wasn't typical — I started in **pre-med** before falling in love with building software. That healthcare background now shapes everything I create: tools that are **intuitive**, **empathetic**, and actually **help people**.
+My path here wasn't typical — I started in **pre-med** before falling in love with building software. That healthcare background now shapes everything I create: tools that are **intuitive**, **empathetic**, and actually **transform the future of software**.
 
-I specialize in **Full-Stack Development**, **AI/ML**, and **UI/UX Design** — always blending technical skill with human-centered thinking.
+I specialize in **Full-Stack Development**, **AI Application**, and **UI/UX Design** — always blending technical skill with human-centered thinking.
 
-> **Currently building:** **SynthLab** (Synthetic Data Intelligence) and a **Genomic AI Chatbox**.
+> **Currently building:** **Genomic Foundation Model Prediction AI** !!
 
 ---
 
@@ -88,7 +88,7 @@ A hybrid platform generating privacy-safe healthcare data. Features longitudinal
 
 A support system for healthcare workers and night-shift students. Balances logistical tracking with gentle emotional check-ins to prevent burnout.
 
-`Python` `Streamlit` `SQLite` `Altair` `Pandas`
+`Python` `Streamlit` `SQLite`  `Pandas`
 
 <br>
 
