@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software&descSize=18&descAlignY=55&fontAlign=50&descAlign=50&font=Caveat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8BA,100:7A9E7E&height=180&section=header&text=Victoria%20Nguyen&fontSize=42&fontColor=2D3A2D&animation=fadeIn&fontAlignY=35&desc=Human-Centered%20Software%20Developer&descSize=18&descAlignY=55&fontAlign=50&descAlign=50&font=Caveat" width="100%"/>
 
 <div align="center">
 
@@ -150,13 +150,6 @@ High-performance computing projects focusing on memory management. Deep dives in
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&hide_border=true&background=F5F5F0&ring=7A9E7E&fire=D4A574&currStreakLabel=5C7A5C&sideLabels=5C7A5C&currStreakNum=4A5D4A&sideNums=4A5D4A&dates=8B9D83" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vicngan&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=5C7A5C&icon_color=7A9E7E&text_color=4A5D4A&ring_color=B8D8BA" height="150"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&hide_border=true&bg_color=F5F5F0&color=5C7A5C&line=7A9E7E&point=D4A574&area=true&area_color=B8D8BA" width="98%"/>
-</div>
-
 ---
 
 <div align="center">
