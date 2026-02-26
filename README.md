@@ -148,8 +148,14 @@ High-performance computing projects focusing on memory management. Deep dives in
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vicngan&hide_border=true&background=F5F5F0&ring=7A9E7E&fire=D4A574&currStreakLabel=5C7A5C&sideLabels=5C7A5C&currStreakNum=4A5D4A&sideNums=4A5D4A&dates=8B9D83" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vicngan&show_icons=true&hide_border=true&bg_color=F5F5F0&title_color=5C7A5C&icon_color=7A9E7E&text_color=4A5D4A&ring_color=B8D8BA" height="150"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicngan&hide_border=true&bg_color=F5F5F0&color=5C7A5C&line=7A9E7E&point=D4A574&area=true&area_color=B8D8BA" width="98%"/>
+</div>
+
 ---
 
 <div align="center">
